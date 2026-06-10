@@ -36,7 +36,7 @@
 
 * **🏦 Bank CLI Project** (2026) 
     * *Description:* A command-line banking application featuring full database connection and secure fund transfer functionalities.
-    * *Tech:* Java, MongoDB | 🔗 [View Source Code](https://hamgit.ir/kalhork/bankcli) [cite: 50]
+    * *Tech:* Java, MongoDB | 🔗 [View Source Code](https://hamgit.ir/kalhork/bankcli) 
 
 * **🗄️ C# CRUD & Database Integration** (2025) 
     * *Description:* A collection of CRUD projects showcasing structural integration between backend services and mixed SQL/NoSQL databases.
